@@ -109,6 +109,8 @@
 [把酒诗代码，趁乱写年华](http://www.102no.com/) | 是谁来自山川湖海，却囿于昼夜，厨房与爱
 [学习编程之美](https://xbc.me/) | 学习编程的美
 [神仙的仙居](http://xiezhenye.com/) | 谢振业的blog，分享技术，记录生活
+[运维咖啡吧](https://ops-coffee.cn/) | 追求技术的道路上，我从不曾停下脚步
+[Just Fine](https://avnpc.com/) | 关注DevOps、容器技术、Elastic等
 
 ### 编程是程序员的第一条腿，而人只有两条腿才能走路
 
@@ -142,6 +144,7 @@
 [CNode](https://cnodejs.org/) | Node.js专业中文社区
 [黑客派](https://hacpai.com/) | 为未来而构建的开发者社区
 [掘金](https://juejin.im/) | 帮助开发者成长的社区
+[FlutterCN](https://www.fluttercn.net/) | Flutter专业中文技术社区
 
 ### 为什么要做这个开源文档？
 
