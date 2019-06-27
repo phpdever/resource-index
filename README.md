@@ -95,6 +95,8 @@
 [抹桥的博客](https://blog.kisnows.com/) | 怕什么真理无穷
 [justjavac(迷渡)](https://justjavac.com/) | 专注最时髦的web开发技术
 [雨浣潇湘](https://www.thjiang.com/) | 前端 / 旅行 / 酒店 / 信用卡
+[张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/) | 张鑫旭博客
+[心谭博客](https://xin-tan.com/) | 前端面试 | 设计模式手册 | Webpack4教程 | NodeJs实战 | Js版·剑指offer刷题笔记
 
 ### Web 后端 博客
 
@@ -121,7 +123,6 @@
 [王登科-DK博客](https://www.wdk.pw/) | 布洛芬爱好者
 [kn007的个人博客](https://kn007.net/) | 偶尔的遐想，音乐骚人，喜欢小动物，爱护自然，西片迷，帮忙折腾
 [小胡子哥](https://www.barretlee.com/) | Life is colorful, this website was, is and will be the window which used to present the color of my life.
-[张鑫旭的个人博客](https://www.zhangxinxu.com/) | 张鑫旭的技术作品、生活成长
 [阿烈叔随笔](https://www.baidufe.com/) | Fehelper开发者
 [凯凯刘](http://liujinkai.com/) | 如果你喜欢思考、热爱技术、追求变现，那么这里就是你我之间的连接点
 [张宴的博客](http://zyan.cc/) | Web系统架构与底层研发
