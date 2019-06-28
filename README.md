@@ -146,6 +146,7 @@
 [黑客派](https://hacpai.com/) | 为未来而构建的开发者社区
 [掘金](https://juejin.im/) | 帮助开发者成长的社区
 [FlutterCN](https://www.fluttercn.net/) | Flutter专业中文技术社区
+[InfoQ](https://www.infoq.cn/) | 促进软件开发领域知识与创新的传播
 
 ### 为什么要做这个开源文档？
 
