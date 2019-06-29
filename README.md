@@ -73,6 +73,7 @@
 [刘悦的技术博客](https://v3u.cn/) | Django Flask Tornado Bottle Python Ruby语言急速实践体验
 [依云's Blog](https://blog.lilydjwg.me/tag/python) | Happy coding, happy living
 [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400) | 业余产品经理，精通Java/Python/Ruby/Scheme/Objective C等，对开源框架有深入研究
+[安生博客](https://blog.ansheng.me/) | 记录学习及工作中的日常
 
 ### Web 前端 博客
 
