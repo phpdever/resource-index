@@ -115,7 +115,7 @@
 [运维咖啡吧](https://ops-coffee.cn/) | 追求技术的道路上，我从不曾停下脚步
 [Just Fine](https://avnpc.com/) | 关注DevOps、容器技术、Elastic等
 
-### 编程是程序员的第一条腿，而人只有两条腿才能走路
+### 来点不一样的
 
 博客名称 | 博客简介 
 ----- | -----
@@ -134,6 +134,7 @@
 [Kevin Blog](https://zhowkev.in) | Thoughts, stories and ideas.
 [MacTalk](http://macshuo.com/) | 关注技术和人文
 [互联网产品经理@唐杰](https://tangjie.me/) | 分享互联网产品经理相关的文章
+[BonXG·学习型博客](https://bonxg.com/) | 专注于学习以及效率，但是有时候也会研究 Golang 和 C++
 
 ### 优秀社区 推荐
 
